@@ -1,0 +1,22 @@
+{
+  "name": "git-tt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samehmohammed2/Sameh-Mohammed.git"
+  },
+  "author": "sameh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samehmohammed2/Sameh-Mohammed/issues"
+  },
+  "homepage": "https://github.com/samehmohammed2/Sameh-Mohammed#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
